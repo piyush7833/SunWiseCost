@@ -39,7 +39,7 @@ class KButton extends StatelessWidget {
               size: 16.0,
               color: kLightPrimaryColor,
             ),
-            const SizedBox(width: 2.0),
+            const DecoratedBox(width: 2.0),
             Text(
               label,
               style: TextStyle(color: kLightPrimaryColor, fontSize: 13.0),
