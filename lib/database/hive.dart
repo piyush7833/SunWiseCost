@@ -14,3 +14,4 @@ class HiveTypes {
   static const int themes = 0;
   static const int configs = 1;
 }
+ 
