@@ -9,5 +9,5 @@ A flutter project which calculates cost of solar implementaion at home based on 
   </tr>
  </table>
 
-
+#readme updated
 
