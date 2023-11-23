@@ -1,5 +1,5 @@
 # solar_cost_calculator
-
+#Readme file
 A flutter project which calculates cost of solar implementaion at home based on requirement or consumption of your house.
 
 
